@@ -1,0 +1,238 @@
+.seatTitle{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 154px;
+	left: 700px;
+	color: #D81B60;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.seatSelectionStep{
+	position: absolute;
+	padding: 20px;
+	margin: 0;
+	top: 40%;
+	left: 8%;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #C51162;
+
+}
+
+.mainSubmit4{
+	position: absolute;
+	border-radius: 25px;
+	border: ;
+	top:200px;
+	left:100px;
+	background-color: #F50057;
+    border: 3px solid #C51162;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.mainSubmit4:hover{
+    background-color: #AD1457;
+    color: white;
+    border-color: #E91E63;
+}
+
+.mainSubmit5{
+	position: absolute;
+	border-radius: 25px;
+	border: ;
+	top:520px;
+	left:70px;
+	background-color: #F50057;
+    border: 3px solid #C51162;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.mainSubmit:hover{
+    background-color: #AD1457;
+    color: white;
+    border-color: #E91E63;
+}
+
+.seatTitle222{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 220px;
+	left: 74px;
+	color: #D81B60;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.infoForm2667{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 300px;
+	left: 74px;
+	color: #C2185B;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.infoForm2667 > input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #F48FB1;
+    border-radius: 7px;
+    width: 350px;
+}
+
+.detailconfirmform{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 270px;
+	left: 74px;
+	color: #C2185B;
+	font-weight: bold;
+	font-size: 15px;
+	width :870px;
+}
+
+.mainSubmit6{
+	position: absolute;
+	border-radius: 25px;
+	border: ;
+	top:580px;
+	left:70px;
+	background-color: #F50057;
+    border: 3px solid #C51162;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.makeitlarge{
+	width: 8000px;
+}
+
+.makeitsmall{
+	color:#F06292;
+}
+
+.raees{
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	top: 130px;
+	left: 650px;
+
+}
+
+.finalBookingConfirm{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 270px;
+	left: 74px;
+	color: #C2185B;
+	font-weight: bold;
+	font-size: 20px;
+	width :870px;
+}
+
+.confirmationimg{
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	top: 80px;
+	left: 620px;
+}
+
+.bookingIDgenerate{
+	background-color: pink;
+}
+
+.greetToMeet{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 570px;
+	left: 775px;
+	color: #C2185B;
+	font-weight: bold;
+	font-size: 20px;
+	width :870px;
+}
+
+.selfPromotion{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 510px;
+	left: 900px;
+	color: #C2185B;
+	font-weight: bold;
+	font-size: 20px;
+	width :870px;
+	-ms-transform: rotate(-7deg); 
+    -webkit-transform: rotate(-7deg);
+    transform: rotate(-7deg);
+}
+
+.selfPromotion>a{
+	text-decoration: none;
+	color: #FF4081;
+	font-size: 30px;
+	text-shadow: 5px 10px 20px #F8BBD0, 0 0 20px #F8BBD0, 0 0 50px #F8BBD0;
+}
+
+.selfPromotion>a:hover{
+	color: #D81B60;
+	text-shadow: 5px 10px 20px #F48FB1, 0 0 20px #F48FB1, 0 0 50px #F48FB1;
+}
+
+.nonavailable{
+	color: black;
+}
+
+.reference445{
+	padding: 0;
+	position: absolute;
+	margin: 0;
+	top: 210px;
+	left: 710px;
+	font-weight: bold;
+	color: #D81B60;
+}
+
+#xmark{
+	color:black;
+}
