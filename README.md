@@ -1,4 +1,4 @@
-Open main.php
+Initial action:  main.php
 
 
 # TheatreBooking - PHP, JavaScript, HTML5, CSS, and MySQL
