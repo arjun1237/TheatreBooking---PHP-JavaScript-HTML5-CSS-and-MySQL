@@ -6,7 +6,7 @@
 		 $host = 'dragon.ukc.ac.uk';
 		 $dbname = 'ak750';
 		 $user = 'ak750';
-		 $pwd = 'au7ilde';
+		 $pwd = 'pass';
 		 try {
 			$conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $pwd);
 			$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
